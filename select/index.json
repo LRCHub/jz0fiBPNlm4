@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Trace",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-10T01:50:18.735040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hell Right (feat. Trace Adkins)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/01_Hell_Right_(feat._Trace_Adkins)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Redneck Tendencies (feat. Trace Adkins & Joe Diffie)",
+      "artist": "HIXTAPE feat. HARDY, Trace Adkins & Joe Diffie",
+      "has_synced": true,
+      "path": "select/02_Redneck_Tendencies_(feat._Trace_Adkins_&_Joe_Diffie)_HIXTAPE_feat._HARDY,_Trace_Adkins_&_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Redneck Tendencies (HARDY feat. Trace Adkins, Joe Diffie)",
+      "artist": "HIXTAPE",
+      "has_synced": true,
+      "path": "select/03_Redneck_Tendencies_(HARDY_feat._Trace_Adkins,_Joe_Diffie)_HIXTAPE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Trace",
+      "artist": "Carla dal Forno",
+      "has_synced": false,
+      "path": "select/04_No_Trace_Carla_dal_Forno.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trace Me Onto You",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/05_Trace_Me_Onto_You_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trace a Line",
+      "artist": "Au Revoir Simone",
+      "has_synced": true,
+      "path": "select/06_Trace_a_Line_Au_Revoir_Simone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trace A Line - Montag Remix",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/07_Trace_A_Line_-_Montag_Remix_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Trace",
+      "artist": "MS MR",
+      "has_synced": true,
+      "path": "select/08_No_Trace_MS_MR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trace",
+      "artist": "The Depreciation Guild",
+      "has_synced": false,
+      "path": "select/09_Trace_The_Depreciation_Guild.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Toxic Trace",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/10_Toxic_Trace_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toxic Trace (Live in East Berlin 1990)",
+      "artist": "Kreator",
+      "has_synced": false,
+      "path": "select/11_Toxic_Trace_(Live_in_East_Berlin_1990)_Kreator.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Toxic Trace (Remix)",
+      "artist": "Kreator",
+      "has_synced": false,
+      "path": "select/12_Toxic_Trace_(Remix)_Kreator.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "They Removed All Trace That Anything Had Ever Happened Here",
+      "artist": "Hood",
+      "has_synced": true,
+      "path": "select/13_They_Removed_All_Trace_That_Anything_Had_Ever_Happened_Here_Hood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Destroyed Without a Trace",
+      "artist": "Cannibal Corpse",
+      "has_synced": false,
+      "path": "select/14_Destroyed_Without_a_Trace_Cannibal_Corpse.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Trace of Fading",
+      "artist": "Ides of Space",
+      "has_synced": false,
+      "path": "select/15_No_Trace_of_Fading_Ides_of_Space.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Leave No Trace",
+      "artist": "Anathema",
+      "has_synced": true,
+      "path": "select/16_Leave_No_Trace_Anathema.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trace",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Trace_DEXCORE.txt"
+    }
+  ]
+}
